@@ -41,6 +41,8 @@
 
 
 ## Advanced
+[Free practice questions from Skunkworks Academy](https://skunkworks-academy.github.io/CompTIA/Linux+/XK0-006-mock-exam.html)
+
 [PluralSight's Bash scripting course](https://app.pluralsight.com/library/courses/creating-shell-scripts-enterprise-linux)
 
 [Exercism](https://exercism.org/), has 80+ exercises for Bash scripting.
