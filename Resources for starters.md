@@ -9,6 +9,8 @@
 ## Complete newb level:
 [Tech Gee's free ITF+ courses](https://technologygee.com/category/it-fundamentals/itf-fc0-u61/)
 
+[Lakshmi Pathi's Webminal tutorials](https://github.com/Lakshmipathi/webminal-tutorials/tree/master), which you can run for free on [Webminal, a Linux environment in your browser](https://webminal.org).
+
 
 ## Early on, for beginners
 [LFS101x - Introduction to Linux - Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/) fully free training
